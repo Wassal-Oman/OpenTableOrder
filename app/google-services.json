@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "490924830279",
+    "firebase_url": "https://open-table-order.firebaseio.com",
+    "project_id": "open-table-order",
+    "storage_bucket": "open-table-order.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490924830279:android:0052352448e84c54",
+        "android_client_info": {
+          "package_name": "com.aseela.open_table_order"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490924830279-06isbvcf0cjkco8vje74mtba0fqcelsj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aseela.open_table_order",
+            "certificate_hash": "fdd906fa496fb1add0e7d7ce706418301fdd227b"
+          }
+        },
+        {
+          "client_id": "490924830279-hpm7b91mf1utds08n3r583foo8905g8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk265iibreiE9H8u2yHRZraOgU5RBXq8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490924830279-hpm7b91mf1utds08n3r583foo8905g8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
